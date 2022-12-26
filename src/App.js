@@ -244,7 +244,7 @@ function App() {
           <Text className="h-full flex items-center justify-center border-b-[3px] border-blue-800 min-w-[80px] px-3">How much cost</Text>
         </div>
       </header>
-      <div className="flex flex-1 justify-between sm:flex-wrap sm:flex-col">
+      <div className="flex flex-1 justify-between md:flex-wrap md:flex-col">
         <div className="flex flex-col justify-start items-center py-6  overflow-y-auto overflow-x-hidden scroll bg-[#bdbdbd21]">
           <div className="my-4 px-4 w-full max-w-xl">
             <Title level={3}>Куда вы хотите поставить солнечные панели?</Title>
